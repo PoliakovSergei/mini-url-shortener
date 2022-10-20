@@ -1,0 +1,4 @@
+service:
+  config:
+    short-url-base: "https://base.ru/"
+    token-length: 7
